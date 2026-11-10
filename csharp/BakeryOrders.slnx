@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BakeryOrders/BakeryOrders.csproj" />
+  <Project Path="BakeryOrders.Tests/BakeryOrders.Tests.csproj" />
+</Solution>

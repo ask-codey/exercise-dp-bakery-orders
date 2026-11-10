@@ -1,0 +1,8 @@
+{
+  "name": "bakery-orders",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
